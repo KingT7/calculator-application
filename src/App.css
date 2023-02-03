@@ -65,7 +65,7 @@
         position: relative;
         left: 200px;
         border: 1px solid black;
-        width: 300px;
+        width: 230px;
         height: 60px;
         text-align: right;
         font-size: large;
@@ -81,7 +81,7 @@
         width: fit-content;
         text-align: center;
         position: relative;
-        left: 235px;
+        left: 140px;
         border-radius: 20px;
     }
     .btn {
