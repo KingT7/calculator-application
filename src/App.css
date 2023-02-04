@@ -63,7 +63,7 @@
     }
     .area {
         position: relative;
-        left: 50px;
+        left: 30px;
         border: 1px solid black;
         width: 230px;
         height: 60px;
@@ -81,7 +81,7 @@
         width: fit-content;
         text-align: center;
         position: relative;
-        left: -28px;
+        left: -30px;
         border-radius: 20px;
     }
     .btn {
