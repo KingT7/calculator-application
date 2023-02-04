@@ -76,7 +76,7 @@
         background-color: rgb(165, 14, 14);
         margin: 2rem;
         display: grid;
-        width: 1vw;
+        width: 200px;
         grid-template-columns: repeat(4, 6rem);
         border: 1px solid black;
         width: fit-content;
