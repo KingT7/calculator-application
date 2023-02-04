@@ -76,12 +76,12 @@
         background-color: rgb(165, 14, 14);
         margin: 2rem;
         display: grid;
+        width: 100vw;
         grid-template-columns: repeat(4, 6rem);
         border: 1px solid black;
         width: fit-content;
         text-align: center;
         position: relative;
-        left: 10px;
         border-radius: 20px;
     }
     .btn {
