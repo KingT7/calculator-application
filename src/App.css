@@ -91,6 +91,7 @@
         font-size: large;
         font-weight: bold;
         font-family: Arial, Helvetica, sans-serif;
+        border-radius: 35%;
     }
     .calcWrapper {
         background-color: rgb(165, 14, 14);
