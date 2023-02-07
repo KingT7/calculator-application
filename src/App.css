@@ -16,7 +16,7 @@
 }
 
 .calcWrapper {
-    background-color: rgb(165, 14, 14);
+    background-image: linear-gradient(red, green, blue, yellow);
     margin: 2rem;
     display: grid;
     grid-template-columns: repeat(4, 6rem);
