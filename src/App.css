@@ -178,7 +178,7 @@
     }
     .area {
         margin-left: 36%;
-        margin-right: 20%;
+        margin-right: 23%;
         display: flex;
         justify-content: center;
         box-sizing: border-box;
@@ -200,7 +200,7 @@
         width: fit-content;
         text-align: center;
         position: relative;
-        left: 30px;
+        left: 90px;
         border-radius: 20px;
     }
     .btn {
