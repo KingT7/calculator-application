@@ -28,9 +28,12 @@ const clear = () => {
   return (
     <div className="App">
 
-<div className="area"> {btnclick} </div>
 
+ <div className='area'>{btnclick}</div>
+  
 <div className="calcWrapper">
+
+
 
 <button className="btn" value={'clear'} onClick={clear} > C </button>
 <button className="btn" value={'7'} onClick={btnClickHandler} > 7 </button>
