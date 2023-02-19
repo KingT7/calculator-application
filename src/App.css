@@ -94,7 +94,7 @@
         height: 100vh;
     }
     .area {
-        margin-right: 80%;
+        margin-right: 200%;
         display: flex;
         justify-content: center;
         box-sizing: border-box;
