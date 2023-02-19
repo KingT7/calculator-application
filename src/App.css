@@ -94,13 +94,12 @@
         height: 100vh;
     }
     .area {
-        margin-right: 700px;
         display: flex;
         justify-content: center;
         align-items: center;
         box-sizing: border-box;
         border-radius: 20px;
-        width: 60%;
+        width: 30%;
         height: 7%;
         border: 0.3rem solid antiquewhite;
         color: antiquewhite;
