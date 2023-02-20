@@ -6,7 +6,7 @@
 }
 
 .area {
-    margin-left: 36%;
+    margin-left: 40%;
     margin-right: 20%;
     display: flex;
     justify-content: center;
@@ -31,7 +31,7 @@
     width: fit-content;
     text-align: center;
     position: relative;
-    left: 475px;
+    left: 465px;
     border-radius: 20px;
 }
 
@@ -78,7 +78,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    right: 65px;
+    right: 55px;
     color: antiquewhite;
 }
 
