@@ -174,10 +174,10 @@
         background-size: cover;
         background-repeat: no-repeat;
         width: 100vw;
-        height: 100vh;
+        height: 120vh;
     }
     .area {
-        margin-left: 10%;
+        margin-left: 15%;
         margin-right: 20%;
         display: flex;
         justify-content: center;
