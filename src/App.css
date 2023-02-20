@@ -173,12 +173,12 @@
         background-image: url('./paperbg.jpg');
         background-size: cover;
         background-repeat: no-repeat;
-        width: 150vw;
-        height: 150vh;
+        width: 100%;
+        height: 100%;
     }
     .area {
         margin-left: 10%;
-        margin-right: 30%;
+        margin-right: 20%;
         display: flex;
         justify-content: center;
         box-sizing: border-box;
