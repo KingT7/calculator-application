@@ -42,6 +42,8 @@
     border-radius: 35px;
     padding: 21px;
     place-content: center;
+    font-family: fantasy;
+    font-weight: 600;
 }
 
 .equalBtn {
@@ -78,7 +80,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    right: 10px;
+    right: 5px;
     color: antiquewhite;
 }
 
@@ -128,6 +130,7 @@
         border-radius: 35px;
         padding: 21px;
         place-content: center;
+        font-weight: bold;
     }
     .equalBtn {
         margin: 10px;
@@ -211,6 +214,7 @@
         border-radius: 35px;
         padding: 21px;
         place-content: center;
+        font-weight: bold;
     }
     .equalBtn {
         margin: 10px;
