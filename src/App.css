@@ -6,7 +6,7 @@
 }
 
 .area {
-    margin-left: 42%;
+    margin-left: 40.5%;
     margin-right: 20%;
     display: flex;
     justify-content: center;
@@ -78,7 +78,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
-    right: 45px;
+    right: 25px;
     color: antiquewhite;
 }
 
