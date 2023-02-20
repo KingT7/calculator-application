@@ -177,7 +177,7 @@
         height: 160vh;
     }
     .area {
-        margin-left: 28%;
+        margin-left: 27.5%;
         margin-right: 20%;
         display: flex;
         justify-content: center;
@@ -242,7 +242,7 @@
         justify-content: center;
         align-items: center;
         position: relative;
-        right: 33px;
+        right: 31px;
         color: antiquewhite;
     }
 }
