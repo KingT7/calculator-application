@@ -177,8 +177,8 @@
         height: 150vh;
     }
     .area {
-        margin-left: 36%;
-        margin-right: 20%;
+        margin-left: 10%;
+        margin-right: 30%;
         display: flex;
         justify-content: center;
         box-sizing: border-box;
