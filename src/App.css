@@ -252,3 +252,20 @@
         color: antiquewhite;
     }
 }
+
+
+/**********Larger Desktop Screens************/
+
+@media (min-width: 1800px) {
+    .calcWrapper {
+        margin: 2rem;
+        display: grid;
+        grid-template-columns: repeat(4, 6rem);
+        border: 1px solid black;
+        width: fit-content;
+        text-align: center;
+        position: relative;
+        left: 230px;
+        border-radius: 20px;
+    }
+}
